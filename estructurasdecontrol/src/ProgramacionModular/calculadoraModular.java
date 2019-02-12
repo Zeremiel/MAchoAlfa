@@ -9,6 +9,7 @@ public class calculadoraModular
 	static Scanner ent=new Scanner(System.in);
 	public static void main(String[] args) throws IOException 
 	{
+		System.out.println("Como mola Sara. Adoremos todos a Sara");
 		char opcion= verMenu(); 
 		int Num1=introducenumeros();
 		int Num2=introducenumeros();
