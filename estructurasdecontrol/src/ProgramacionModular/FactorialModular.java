@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class FactorialModular 
 {
 static Scanner entrada = new Scanner(System.in);
-
+ 
 
 	public static void main(String[] args) 
 	{ double numero = pedirNumero();
@@ -12,6 +12,7 @@ static Scanner entrada = new Scanner(System.in);
 	}
 		private static double pedirNumero()
 		{
+		System.out.println("Vladi mola demasiado, que desgracia tener que cargar con Sara");
 		System.out.println("Introduce el numero a factorizar");
 		return entrada.nextDouble();
 		}
