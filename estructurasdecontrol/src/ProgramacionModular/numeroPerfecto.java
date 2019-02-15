@@ -10,6 +10,7 @@ static Scanner ent = new Scanner(System.in);
 	public static void main(String[] args) 
 	
 	{
+		System.out.println("Soy mejor que Vladi en todo");
 	int numero=IntroduceNumero();
 	boolean resultado=CalculaResultado(numero);
 	 verResultado(numero, resultado);
