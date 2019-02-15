@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class calculadora 
 {
 //esta clase es una mini calculadora
-	//Esto pertenece a la practica 6 de ENDE, vladi mola.
+	//Esto pertenece a la practica 6 de ENDE, vladi esta triste.
 	public static void main(String[] args) throws IOException 
 	{
 		Scanner entrada = new Scanner(System.in); 
