@@ -7,6 +7,7 @@ public class calculadora
 {
 //esta clase es una mini calculadora
 	//Esto pertenece a la practica 6 de ENDE, vladi esta triste.
+	//Esto modificación es de Sara. ¿Porque estas triste?
 	public static void main(String[] args) throws IOException 
 	{
 		Scanner entrada = new Scanner(System.in); 
