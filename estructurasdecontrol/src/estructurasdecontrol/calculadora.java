@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class calculadora 
 {
 //esta clase es una mini calculadora
+	//Esto pertenece a la practica 6 de ENDE, vladi es un macho Alfa total.
 	public static void main(String[] args) throws IOException 
 	{
 		Scanner entrada = new Scanner(System.in); 
